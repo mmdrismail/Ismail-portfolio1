@@ -113,7 +113,8 @@ border-radius: 40px;
 
 @media only screen and (min-width: 200px) and (max-width: 576px) {
     .expertiess{
-   grid-template-columns: repeat(1,1fr);
+   flex-direction: column;
+   padding: auto;
     }
     .projects{
         grid-template-columns: repeat(1,1fr);
