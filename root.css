@@ -23,3 +23,8 @@ body {
     padding: 0px 60px;
 
 }
+
+html {
+    /* Quick Chrome-only visual match to 67% zoom */
+    zoom: 0.67;
+}
